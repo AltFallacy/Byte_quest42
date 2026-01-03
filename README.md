@@ -63,6 +63,27 @@ The project leverages **multimodal AI** combining cognitive tests, speech analys
 - pip / virtualenv
 - Microphone access (for voice input)
 
+
+
+silentmind/
+│
+├── app.py                      # Streamlit entry point
+├── requirements.txt
+│
+├── models/
+│   ├── cognitive_model.py      # Model 1
+│   ├── speech_model.py         # Model 2
+│   ├── behavior_model.py       # Model 3
+│   └── fusion_model.py         # Model 4
+│
+├── utils/
+│   ├── audio_utils.py
+│   └── nlp_utils.py
+│
+└── data/
+    └── demo_user.csv           # optional demo storage
+
+
 ### Installation Steps
 
 ```bash
@@ -71,3 +92,7 @@ cd silentmind
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+
+
+
