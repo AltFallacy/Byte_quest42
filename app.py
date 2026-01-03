@@ -64,3 +64,5 @@ non-invasive daily interactions.
 st.info("👈 Use the sidebar to navigate through the app")
 
 
+
+
