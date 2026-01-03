@@ -17,8 +17,8 @@ Silent neurological diseases such as dementia progress gradually and often remai
 
 ## 3. Team Name
 
-**NeuroTrace AI**  
-*(Replace with your actual team name)*
+**Orion **  
+
 
 ---
 
@@ -31,15 +31,13 @@ Silent neurological diseases such as dementia progress gradually and often remai
 
 ## 5. 2-Minute Demonstration Video Link
 
-🎥 https://your-demo-video-link-here  
-*(Google Drive / YouTube / Unlisted link)*
+🎥
 
 ---
 
 ## 6. PPT Link
 
-📊 https://your-ppt-link-here  
-*(Google Slides / Drive link)*
+📊 
 
 ---
 
